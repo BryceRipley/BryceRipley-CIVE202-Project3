@@ -8,5 +8,5 @@ This Projects intent was to analyze national traffic behavior using the NHTS dat
 
 1. Download the repository and make sure all files reamin in the same locaiton so the notebook can accesss the files.
 2. Open the jupyter notebook
-3. Run all cells from top to bottom. All porject information and attributes are all listed so users know what inforation goes in and where it goes.
+3. Run all cells from top to bottom. All the codes specific information and attributes are all listed so users know what inforation goes in and where it goes.
 4. Allow the notebook to produce the outputs and the visuals of the compared variables will be shown.
